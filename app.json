@@ -1,6 +1,6 @@
 {
   "name": "CGM Remote Monitor",
-  "repository": "https://github.com/nightscout/cgm-remote-monitor",
+  "repository": "https://github.com/toarikaplan/custom",
   "env": {
     "MONGO_COLLECTION": {
       "description": "The mongo collection to connect to.",
